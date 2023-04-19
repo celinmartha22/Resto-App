@@ -15,5 +15,5 @@
 <img src="https://raw.githubusercontent.com/celinmartha22/Resto-App/main/Photo/photo_6188074535618720695_y.jpg?raw=true" alt="Home Page" width="300" height="600" title="5 Page">
   
 <img src="https://raw.githubusercontent.com/celinmartha22/Resto-App/main/Photo/photo_6188074535618720697_y.jpg?raw=true" alt="Home Page" width="300" height="600" title="6 Page">
-<img src="https://raw.githubusercontent.com/celinmartha22/Resto-Appe/main/Photo/photo_6188074535618720698_y.jpg?raw=true" alt="Home Page" width="300" height="600" title="7 Page">
+<img src="https://raw.githubusercontent.com/celinmartha22/Resto-App/main/Photo/photo_6188074535618720698_y.jpg?raw=true" alt="Home Page" width="300" height="600" title="7 Page">
 </p>
